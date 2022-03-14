@@ -1,0 +1,16 @@
+header, footer {
+    background-color: teal;
+    padding: 25px;
+    text-align: center;
+}
+
+
+body {
+    font-size: larger;
+}
+
+
+h1 {
+    color: white;
+}
+
